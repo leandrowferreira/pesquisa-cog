@@ -19,6 +19,7 @@ class CreateRespostasTable extends Migration
             $table->unsignedInteger('disciplina_id');
             $table->unsignedInteger('pergunta_id');
             $table->unsignedInteger('professor_id');
+            $table->string('turma', 20)->nullable();
 
             $table->enum('tipo', ['A', 'P'])->comment('A: Aluno; P: Professor');
             $table->text('resposta')->nullable();

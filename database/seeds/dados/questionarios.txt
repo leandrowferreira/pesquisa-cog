@@ -1,0 +1,59 @@
+*Avaliação de Professores:5
+
+O(A) professor(a) demonstra segurança e domínio nas explicações referentes aos conteúdos da sua disciplina?
+Sempre passa segurança.
+Às vezes apresenta segurança.
+Raramente tem segurança no conteúdo que apresenta.
+
+O(A) professor(a) demontra disponibilidade em esclarecer dúvidas e mostra-se interessado(a) na qualidade do aprendizado dos estudantes?
+Está sempre interessado(a) com o aprendizado.
+Ocasionalmente demonstra esse interesse.
+Raramente se interessa por isso.
+
+O(A) professor(a) aproveita bem o tempo disponível para as suas aulas, apresentando os conteúdos de forma organizada e sequencial?
+Sempre aproveita.
+Nem sempre aproveita.
+Raramente aproveita.
+
+O(A) professor(a) elabora provas compatíveis (coerentes), respeitando os conteúdos dados em sala de aula?
+As provas são muito bem elaboradas e compatíveis com os conteúdos dados.
+As provas são parcialmente bem elaboradas.
+As provas são mal elaboradas, pois não são compatíveis com os conteúdos dados.
+
+O(a) professor(a) utiliza o livro didático adotado, usando-o como referência para suas aulas e realizando os exercícios propostos?
+Sempre utiliza o livro e faz exercícios.
+Às vezes utiliza o livro e faz exercícios
+Raramente utiliza o livro e faz exercícios.
+
+
+*Avaliação de Professores | 3ª Série:6
+
+O(A) professor(a) demonstra segurança e domínio nas explicações referentes aos conteúdos da sua disciplina?
+Sempre passa segurança.
+Às vezes apresenta segurança.
+Raramente tem segurança no conteúdo que apresenta.
+
+O(A) professor(a) demontra disponibilidade em esclarecer dúvidas e mostra-se interessado(a) na qualidade do aprendizado dos estudantes?
+Está sempre interessado(a) com o aprendizado.
+Ocasionalmente demonstra esse interesse.
+Raramente se interessa por isso.
+
+O(A) professor(a) aproveita bem o tempo disponível para as suas aulas, apresentando os conteúdos de forma organizada e sequencial?
+Sempre aproveita.
+Nem sempre aproveita.
+Raramente aproveita.
+
+O(A) professor(a) elabora provas compatíveis (coerentes), respeitando os conteúdos dados em sala de aula?
+As provas são muito bem elaboradas e compatíveis com os conteúdos dados.
+As provas são parcialmente bem elaboradas.
+As provas são mal elaboradas, pois não são compatíveis com os conteúdos dados.
+
+Em relação aos CONTEÚDOS:
+Apresenta conteúdos relevantes, com bom desenvolvimento do tema.
+Os conteúdos poderiam ser mais detalhados.
+Os conteúdos não atingiram a proposta da disciplina.
+
+Em relação aos EXERCÍCIOS:
+Apresenta exercícios relevantes, com bom nível de elaboração e desenvolvimento do tema.
+Os exercícios apresentam um nível regular de elaboração e poderiam ser mais detalhados.
+Os exercícios não atingiram a proposta da disciplina.

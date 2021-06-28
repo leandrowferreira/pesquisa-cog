@@ -42,7 +42,7 @@ class Disciplina extends Model
     {
         //Grava as respostas
         foreach ($request->all() as $num => $resposta) {
-            $pergunta = Pergunta::where('numero', $num)->first();
+            $pergunta = Pergunta::where('numero', $num)->where('grupo', Auth::user()->grupo)->first();
             $resposta = Resposta::novo($this, $professor, $pergunta, $resposta);
 
             if (!$pergunta || !$resposta) {

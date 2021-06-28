@@ -16,7 +16,7 @@
 
         <p>
            Este questionário tem como objetivo medir suas impressões sobre o corpo
-           docente no decorrer do ano letivo de 2020.
+           docente no decorrer do ano letivo de 2021.
         </p>
         <p>
             A pesquisa é totalmente sigilosa. Suas respostas não serão associadas

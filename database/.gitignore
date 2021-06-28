@@ -1,4 +1,3 @@
 *.sqlite
 /seeds/dados/old
 /seeds/dados/*.csv
-/seeds/PerguntasSeeder.php

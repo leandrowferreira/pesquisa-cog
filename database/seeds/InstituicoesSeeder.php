@@ -13,8 +13,8 @@ class InstituicoesSeeder extends Seeder
     public function run()
     {
         DB::table('instituicoes')->insert([
-            ['sigla' => 'bv', 'nome' => 'Boa Viagem'],
-            ['sigla' => 'cf', 'nome' => 'Casa Forte'],
+            ['sigla' => 'BV', 'nome' => 'Boa Viagem'],
+            ['sigla' => 'CF', 'nome' => 'Casa Forte'],
         ]);
     }
 }
