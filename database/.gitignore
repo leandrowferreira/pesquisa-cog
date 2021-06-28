@@ -1,3 +1,4 @@
 *.sqlite
 /seeds/dados/old
 /seeds/dados/*.csv
+/seeds/dados/*.txt
