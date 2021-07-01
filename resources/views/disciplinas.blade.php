@@ -30,7 +30,7 @@
                         <span class="text-muted small">{{$professor->nome}}</span><br>
                         @endforeach
                         @if (!$disciplina->pivot->respondido)
-                        <a class="d-inline d-sm-none btn btn-sm btn-primary my-2" href="/disciplinas/{{$disciplina->id}}">Responder <font-awesome-icon class="ml-1" icon="arrow-circle-right"></font-awesome-icon></a>
+                        <a class="d-inline d-sm-none btn btn-sm btn-primary my-2" href="/disciplinas/{{$disciplina->id}}/{{$disciplina->pivot->professor_id}}">Responder <font-awesome-icon class="ml-1" icon="arrow-circle-right"></font-awesome-icon></a>
                         @else
                         <p class="small mb-0 pt-1"><strong>Já respondido</strong></p>
                         <!-- <span class="d-inline d-sm-none badge p-2 badge-success"><font-awesome-icon icon="check-circle" /></font-awesome-icon> Respondido</span> -->
